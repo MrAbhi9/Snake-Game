@@ -93,6 +93,7 @@ wn.onkeypress(goright, "d")
 segments = []
 
 
+# amartya's part
 
 # Main Gameplay
 while True:
